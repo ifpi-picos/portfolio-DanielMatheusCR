@@ -25,7 +25,7 @@ main, aside {
 }
 
 main {
-    width: 70%;
+    width: 78%;
     float: right;
 }
 
@@ -37,7 +37,7 @@ section {
 }
 
 aside {
-    min-width: 18%;
+    min-width: 15%;
     float: left;
     text-align: center;
 }
