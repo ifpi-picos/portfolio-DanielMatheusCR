@@ -37,6 +37,7 @@ section {
 }
 
 aside {
+    min-width: 15%;
     float: left;
     text-align: center;
 }
