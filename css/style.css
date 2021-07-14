@@ -9,12 +9,12 @@ header, main, aside, footer {
     color: white;
 }
 
-header img {
-    height: 310px;
-}
-
 header {
     text-align: center;
+}
+
+header img {
+    height: 310px;
 }
 
 main, aside {
@@ -27,7 +27,7 @@ main {
 }
 
 section {
-    width: auto;
+    width: 100%;
     min-height: 200px;
     background-color: rgb(35, 35, 39);
 }
