@@ -30,15 +30,16 @@ main {
 }
 
 section {
-    width: 100%;
+    margin-top: 20px;
+    width: auto;
     min-height: 200px;
     height: auto;
     background-color: rgb(35, 35, 39);
 }
 
 aside {
-    width: 18%;
-    height: auto;
+    min-width: 18%;
+    width: auto;
     float: left;
     text-align: center;
 }
