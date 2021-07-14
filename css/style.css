@@ -2,8 +2,9 @@
     box-sizing: 0;
 }
 
-header, main, aside, footer {
+header, main, section, aside, footer {
     background-color: rgb(24, 24, 27);
+    font-size: auto;
     margin-bottom: 5px;
     padding: 5px;
     color: white;
