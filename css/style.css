@@ -4,7 +4,7 @@
 
 header, main, aside, footer {
     background-color: rgb(24, 24, 27);
-    font-size: auto;
+    font-size: 17px;
     margin-bottom: 5px;
     padding: 5px;
     color: white;
@@ -25,19 +25,18 @@ main, aside {
 }
 
 main {
-    min-width: 50%;
+    width: 77%;
     float: right;
 }
 
 section {
-    margin-top: 20px;
     width: auto;
     min-height: 200px;
     background-color: rgb(35, 35, 39);
 }
 
 aside {
-    min-width: 18%;
+    width: 18%;
     float: left;
     text-align: center;
 }
