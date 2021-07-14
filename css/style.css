@@ -23,7 +23,7 @@ main, aside {
 }
 
 main {
-    width: 77%;
+    width: 80%;
     float: right;
 }
 
@@ -34,13 +34,13 @@ section {
 }
 
 aside {
-    width: 18%;
+    width: 15%;
     float: left;
     text-align: center;
 }
 
 a {
-    color: white;
+    line-height: 4;
 }
 
 footer {
