@@ -33,13 +33,11 @@ section {
     margin-top: 20px;
     width: auto;
     min-height: 200px;
-    height: auto;
     background-color: rgb(35, 35, 39);
 }
 
 aside {
-    min-width: 18%;
-    width: auto;
+    min-width: 17%;
     float: left;
     text-align: center;
 }
