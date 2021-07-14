@@ -4,19 +4,17 @@
 
 header, main, aside, footer {
     background-color: rgb(24, 24, 27);
-    font-size: 17px;
+    font-size: 16px;
     margin-bottom: 5px;
     padding: 5px;
     color: white;
 }
 
 header img {
-    width: 250px;
     height: 310px;
 }
 
 header {
-    height: auto;
     text-align: center;
 }
 
