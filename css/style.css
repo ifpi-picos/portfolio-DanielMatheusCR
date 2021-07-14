@@ -43,6 +43,10 @@ aside {
     text-align: center;
 }
 
+a {
+    color: white;
+}
+
 footer {
     clear: both;
     height: 30px;
