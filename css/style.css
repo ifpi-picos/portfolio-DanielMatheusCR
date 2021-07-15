@@ -1,5 +1,6 @@
 body {
     background-color: rgb(12, 12, 15);
+    background-size: cover;
 }
 
 header, main, section, aside, footer {
