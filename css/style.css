@@ -12,7 +12,7 @@ header, main, section, aside, footer {
 }
 
 header {
-    background-image: url(/img/background.jpg);
+    background-image: url(/img/background-header.jpg);
     text-align: center;
 }
 
